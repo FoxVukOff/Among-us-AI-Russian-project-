@@ -1,1 +1,1 @@
-# Among-us-AI-Russian-project-
+# Амонг ас ИИ (Русский проект)
